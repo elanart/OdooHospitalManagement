@@ -1,0 +1,17 @@
+*.pyc
+*pyc
+local/**/*
+odoo-env/**/*
+system_setup/jeandev.conf
+tms16-env
+odoo-env
+env
+.env
+.idea
+build
+venv
+.venv
+test.py
+system_setup/jeandev-product.conf
+start.sh
+.vscode

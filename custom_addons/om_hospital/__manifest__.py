@@ -1,18 +1,15 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Hospital Management",
-    'summary': """Hospital Management""",
-    'description': """Managing hospital information""",
-    'version':"",
-    'author': "Tran Le Lan",
-    'website': "",
-    'category': 'Uncategorized',
-    'version': '0.1',
-    'depends': [
-        'base',
-    ],
+    'version': '1.0.0',
+    'category': 'Hospital',
+    'summary': 'Hospital management system',
+    'description': """Hospital management system""",
+    'depends': [],
     'data': [],
-    # 'qweb': ['static/src/xml/*.xml'],
-    'installable': True,
+    'demo': [],
     'application': True,
+    'auto_install': False,
+    'license': 'LGPL-3',
+
 }
